@@ -1,1 +1,3 @@
-# IA41-Project
+# Development and Strategy Enhancement in AI for Two-Player Board Game Using MiniMax Algorithm
+
+In collaboration with my team, I developed a comprehensive two-player board game, detailing its rules and mechanics. After initial attempts with reinforcement learning proved unviable, we shifted to implementing the MiniMax algorithm, a decision-making strategy renowned for its effectiveness in two-player games. This algorithm allowed us to equip the AI with the capability to make strategic decisions and react to various game scenarios adeptly. This pivot required not only a deep understanding of the game's environment but also the application of complex algorithmic solutions to create an AI system that excels in strategic gameplay, demonstrating adaptability and proficiency in advanced algorithm application.
